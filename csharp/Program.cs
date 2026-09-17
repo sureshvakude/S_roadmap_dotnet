@@ -105,8 +105,5 @@
 21. SOLID Principles
 
 22. Design Patterns
-    1.
-    2.
-    3.
 
 **/
